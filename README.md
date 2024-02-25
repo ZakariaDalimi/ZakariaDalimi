@@ -2,9 +2,9 @@
 
 ![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariadalimi&theme=radical&show_icons=true)
 
-## Full Stack Developer and Data Scientist 💻🧠
+## Full Stack Developer 💻🧠
 
-- Hi 👋, I’m Zakaria Dalimi, a passionate Full Stack Developer & Data Scientist. <br>
+- Hi 👋, I’m Zakaria Dalimi, a passionate Full Stack Developer. <br>
 
 - 👀 I’m interested in:
 
@@ -18,8 +18,6 @@
 
 ### Artificial Intelligence 🤖
  &nbsp; &nbsp;✔️ Computer Vision<br>
- &nbsp; &nbsp;✔️ Machine Learning<br>
- &nbsp; &nbsp;✔️ Deep Learning<br>
  &nbsp; &nbsp;✔️ Data Analyst<br><br><br>
 
 
