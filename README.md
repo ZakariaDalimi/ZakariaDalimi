@@ -14,7 +14,7 @@
  &nbsp; &nbsp;✔️ Tools :  Git | GitHub<br>
  &nbsp; &nbsp;✔️ Design :  UML | Merise<br>
  &nbsp; &nbsp;✔️ Web Service :  JSON<br>
- &nbsp; &nbsp;✔️ Databases :  MySQL<br>
+ &nbsp; &nbsp;✔️ Databases :  MySQL | MongoDB<br>
 
 ### Artificial Intelligence 🤖
  &nbsp; &nbsp;✔️ Computer Vision<br>
