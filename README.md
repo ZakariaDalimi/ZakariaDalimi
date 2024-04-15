@@ -11,6 +11,7 @@
 ### Full Stack Development ☕
  &nbsp; &nbsp;✔️ Front End :  HTML5 | CSS3 | Bootstrap | JavaScript | ECMAScript | React JS <br>
  &nbsp; &nbsp;✔️ Back End :  PHP | Laravel<br>
+ &nbsp; &nbsp;✔️ CMS :  WordPress | TYPO3<br>
  &nbsp; &nbsp;✔️ Tools :  Git | GitHub<br>
  &nbsp; &nbsp;✔️ Design :  UML | Merise<br>
  &nbsp; &nbsp;✔️ Web Service :  JSON<br>
