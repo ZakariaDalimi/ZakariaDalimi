@@ -30,7 +30,7 @@
 
   - 👥 **Looking for:** Ausbildungsstelle or job opportunity
 
-  - 📫 **How to reach me:** Email : zakariaa.dalimi@gmail.com / Phone : +212 618 96 56 47<br><br>
+  - 📫 **How to reach me:** Email : zakariaa.dalimi@gmail.com / Phone : +49 176 80832228<br><br>
 
 
 ### Languages and Tools:
